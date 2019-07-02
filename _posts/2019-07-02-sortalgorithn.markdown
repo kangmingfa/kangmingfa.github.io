@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sort Algorithm"
+title: "排序算法1"
 author: "fmitk"
 categories: sample
 tags: [sample]

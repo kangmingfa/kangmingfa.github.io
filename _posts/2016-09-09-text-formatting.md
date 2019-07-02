@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "文本编辑参考文档"
 author: "Paul Le"
 categories: sample
 tags: [sample]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows linux subsystem"
+title: "Windows linux 子系统"
 author: "fmitk"
 categories: sample
 tags: [sample]
