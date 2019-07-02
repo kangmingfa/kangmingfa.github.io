@@ -2,8 +2,8 @@
 layout: post
 title: "Windows linux subsystem"
 author: "fmitk"
-categories: documentation
-tags: [documentation,sample]
+categories: sample
+tags: [sample]
 image: city-2.jpg
 ---
 <!-- ![img](/assets/img/cuba-1.jpg) -->
