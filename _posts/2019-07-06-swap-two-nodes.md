@@ -4,7 +4,7 @@ title: "交换链表任意节点"
 author: "fmitk"
 categories: sample
 tags: [sample]
-image: blog_003.jpeg
+image: blog_003.jpg
 ---
 # 交换链表任意节点
 
