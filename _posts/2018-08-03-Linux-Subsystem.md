@@ -4,7 +4,7 @@ title: "Windows linux 子系统"
 author: "fmitk"
 categories: sample
 tags: [sample]
-image: nature-1.jpg
+image: blog_001.jpeg
 ---
 <!-- ![img](/assets/img/cuba-1.jpg) -->
 **本人第一次撰写博客，主要整理自己所学所好奇的知识点，次要为传播。*

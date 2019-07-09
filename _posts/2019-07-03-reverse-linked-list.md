@@ -4,7 +4,7 @@ title: "反转链表"
 author: "fmitk"
 categories: sample
 tags: [sample]
-image: blog_001.jpeg
+image: blog_005.jpg
 ---
 # 反转链表
 

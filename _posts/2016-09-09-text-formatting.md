@@ -4,7 +4,7 @@ title: "文本编辑参考文档"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: blog_007.jpg
 ---
 
 # Markdown Support

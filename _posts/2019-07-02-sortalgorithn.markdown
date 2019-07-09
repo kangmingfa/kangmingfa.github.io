@@ -4,7 +4,7 @@ title: "排序算法1"
 author: "fmitk"
 categories: sample
 tags: [sample]
-image: cuba-1.jpg
+image: blog_006.jpg
 ---
 # 冒泡-选择-插入排序
 
