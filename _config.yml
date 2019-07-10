@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Thinking"
+title:		           "若非群玉山头见"
 description:	       "All my wayward one"
 author:              "KMF"
 
