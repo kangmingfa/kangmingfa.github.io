@@ -7,4 +7,3 @@ tags: [sample]
 image: os.jpg
 ---
 
-Hello OS
