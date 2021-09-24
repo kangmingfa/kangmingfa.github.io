@@ -4,6 +4,6 @@ title: Contact
 ---
 ![img](/assets/img/contract_cover.jpg)
 
-email : 1640528728@qq.com
+email : none
 
-wx : k1640528728
+wx : none
