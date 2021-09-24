@@ -17,3 +17,24 @@ The bootloader transfers the control to the operating system kernel.The operatin
 其实 VBE 是显卡的一个图形规范标准，它定义了显卡的几种图形模式，每个模式包括屏幕分辨率，像素格式与大小，显存大小。调用 BIOS 10h 中断可以返回这些数据结构。
 
 我们在调用 Cosmos 第一个 C 函数之前，我们依然要写一小段汇编代码，切换 CPU 到长模式，初始化 CPU 寄存器和 C 语言要用的栈。因为目前代码执行流在二级引导器中，进入到 Cosmos 中这样在二级引导器中初始过的东西都不能用了。
+
+### 第一个 C 函数 hal_start
+
+##### 初始化HAL层
+
+```
+
+void init_hal()
+{
+    //初始化平台
+    //初始化内存
+    //初始化中断
+    return;
+}
+```
+
+##### 初始化中断
+
+x86 cpu 和设备之间的中断控制器是8259A
+
+![](https://static001.geekbang.org/resource/image/4d/09/4d81f7feb668abf30c5cced619549709.jpg)
