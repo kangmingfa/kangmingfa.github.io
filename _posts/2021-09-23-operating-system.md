@@ -110,4 +110,7 @@ Linux 内核的第一个用户态进程是在 kernel_init 线程建立的，而 
 
 ![启动流程](/assets/img/linux_boot_process.jpg)
 
+kernel_thread，调用_do_fork，创建了kernel_init进程，pid=1 . 是系统中所有其它用户进程的祖先
+kernel_thread，调用_do_fork，创建了 kernel_thread进程，pid=2， 负责所有内核线程的调度和管理
+
 ---
