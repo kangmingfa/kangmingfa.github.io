@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "若非群玉山头见"
 description:	       "All my wayward one"
-author:              "KMF"
+author:              "kangmingfa"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
