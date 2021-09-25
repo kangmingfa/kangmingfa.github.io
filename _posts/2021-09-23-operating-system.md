@@ -103,3 +103,9 @@ diskboot.img知道后续每个文件的位置，会继续通过BIOS中断读取�
 加载kernel.img，并转交控制权给kernel.img
 kernel.img的grub_main函数会调用grub_load_modules函数加载各个mod模块
 加载各个mod后，grub就支持文件系统了，访问磁盘不需要再依靠BIOS的中断以扇区为单位读取了，终于可以使用文件系统了
+
+##### 第一个用户进程
+
+Linux 内核的第一个用户态进程是在 kernel_init 线程建立的，而 kernel_init 线程执行的就是 kernel_init 函数
+
+![启动流程]()
