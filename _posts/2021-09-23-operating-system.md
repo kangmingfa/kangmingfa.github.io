@@ -108,4 +108,6 @@ kernel.img的grub_main函数会调用grub_load_modules函数加载各个mod模�
 
 Linux 内核的第一个用户态进程是在 kernel_init 线程建立的，而 kernel_init 线程执行的就是 kernel_init 函数
 
-![启动流程]()
+![启动流程](/assets/img/linux_boot_process.jpg)
+
+---
