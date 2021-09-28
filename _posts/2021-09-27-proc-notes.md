@@ -20,7 +20,7 @@ image: city-2.jpg
 
 #### cpu组织进程示意图
 
-![proc](/assets/img/2021-09-28 上午11.33.47.png)![](https://static001.geekbang.org/resource/image/51/49/5181c38bfcb42c688076daaeb3452d49.jpg?wh=4304x1933)![]()![](https://static001.geekbang.org/resource/image/51/49/5181c38bfcb42c688076daaeb3452d49.jpg?wh=4304x1933)
+![proc]()
 
 ```cpp
 
