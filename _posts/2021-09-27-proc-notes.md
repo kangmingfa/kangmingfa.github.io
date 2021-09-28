@@ -20,7 +20,7 @@ image: city-2.jpg
 
 #### cpu组织进程示意图
 
-![proc]()
+![proc](/assets/img/2021-09-28 上午11.33.47.png)
 
 ```cpp
 
