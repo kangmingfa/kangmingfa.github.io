@@ -51,3 +51,9 @@ typedef struct s_SCHEDCALSS
     schdata_t   scls_schda[CPUCORE_MAX];  //每个CPU调度数据结构
 }schedclass_t;
 ```
+
+#### 进程调度
+
+1. 找出当前进程 curr
+2. 通过调度函数找到下一个进程 next
+3. 进程切换 通过切换进程内核栈的方式
