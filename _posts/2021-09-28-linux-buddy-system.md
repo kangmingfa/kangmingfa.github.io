@@ -8,7 +8,7 @@ image: nature-1.jpg
 ---
 ![mem](/assets/img/截屏2021-09-29 上午10.57.35.png)
 
-#### 分配内存
+#### 分配内存，伙伴系统，涉及到内存分割
 
 分配内存【只能按2^n页面申请】
 alloc_pages->alloc_pages_current->__alloc_pages_nodemask
@@ -26,3 +26,7 @@ alloc_pages->alloc_pages_current->__alloc_pages_nodemask
 1、expand分割内存时，也是从大到小的顺序去分割的
 2、每一次都对半分割，挂载到对应的free_area，也就加入了伙伴系统
 3、直到得到所需大小的页面，就是我们申请到的页面了
+
+#### SLAB 分配器的原理和实现
+
+![mem](/assets/img/截屏2021-09-30 下午3.40.07.png)
