@@ -1,12 +1,11 @@
-```
+---
 layout: post
 title: "Linux 文件系统设计 notes"
 author: "kangmingfa"
 categories: sample
 tags: [os]
-image: arctic-2.jpg
-```
-
+image: arctic-2.jpgxs
+---
 ### 如何组织文件系统
 
 ```
